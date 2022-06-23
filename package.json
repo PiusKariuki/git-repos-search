@@ -3,11 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://www.npmjs.com/package/git-repos-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiusKariuki/git-repos-search"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Pius Kariuki <piuskariuki19@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
